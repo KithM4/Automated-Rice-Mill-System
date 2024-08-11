@@ -1,0 +1,13 @@
+# Wokwi Library List
+# See https://docs.wokwi.com/guides/libraries
+
+# Automatically added based on includes:
+DHT sensor library
+Servo
+
+AccelStepper
+HX711
+HX711 Arduino Library
+LiquidCrystal I2C Multilingual
+LiquidCrystal I2C
+LiquidCrystal
